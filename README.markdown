@@ -1,4 +1,9 @@
 # javascript-koans
+
+___
+### Clone of the repository as the OTUS JavaScript Basic course 06/21 homework
+___
+
 Based on Edgecase's fantastic 
 [Ruby koans](http://github.com/edgecase/ruby_koans), the goal of the
 Javascript koans is to teach you Javascript programming through
